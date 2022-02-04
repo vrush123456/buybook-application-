@@ -1,0 +1,21 @@
+[+] create dictionary structure
+
+[+] create NPM project and install all dependancies
+    -dependancies
+        -express
+        -ejs express-ejs-layout
+    -dev dependancies
+        -nodemon
+[+] create express server - create a server.js file
+[-] create Home page using html and css
+    -include tailwind css
+
+[+] create cart page
+    -order summary section
+    -empty cart section
+
+[+] create order controller and link it in server .js
+[-] create orders view with table for customer and admin
+[+] create orders single page with status
+[-] create login page with route
+
