@@ -7,6 +7,11 @@
     -dev dependancies
         -nodemon
 [+] create express server - create a server.js file
+[+] git setup and first commit
+[+] install/laravel mix
+    -setup js and css
+[+] install tailwind css
+
 [-] create Home page using html and css
     -include tailwind css
 
@@ -18,4 +23,11 @@
 [-] create orders view with table for customer and admin
 [+] create orders single page with status
 [-] create login page with route
-
+[+] create register page with route
+[+] build register crud
+    -dependancies express-flash express-session cookue-parser dotenv
+    -status code article https://www.restapitutorial.com/httpstatuscodes.html
+    -database conection dependancies mongoose
+    -build login using passport
+    -install dependancies passport passport-local express-session
+    create menu model an put dummy databasex.
